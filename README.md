@@ -1,18 +1,9 @@
-# Personal Site
+# Portfolio Site
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This is a place where people can learn more about me, and the work I've done.
 
-(* = not included)
+# How It's Made:
 
-Credits:
+**Tech Used:** HTML5, CSS3, JavaScript, jQuery, Responsive Tools (github.com/ajlkn/responsive-tools)
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I built this site from by implementing features from highest to lowest priority. For example, hero page, where most people woudI also used Font Awesome (fontawesome.io) for the icons!
