@@ -2,6 +2,10 @@
 
 This is a place where people can learn more about me, and the work I've done.
 
+**Link to the portfolio** https://shanewidanagama.github.io/Portfolio/
+
+![Portfolio Screenshot](images/portfolio_screenshot.png)
+
 # How It's Made:
 
 **Tech Used:** HTML5, CSS3, JavaScript, jQuery, Responsive Tools (github.com/ajlkn/responsive-tools)
